@@ -24,3 +24,6 @@ Pertemuan 9 A
 
 Pertemuan 9 B
 -Projek Menampilkan List Sederhana
+
+Pertemuan 10
+-Projek Internal Storage Dan External Storage
