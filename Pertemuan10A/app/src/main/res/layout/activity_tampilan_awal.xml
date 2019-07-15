@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".TampilanAwal">
+
+    <TextView
+        android:id="@+id/Lbl_Judul"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Latihan Presistence"/>
+    <Button
+        android:id="@+id/Tbl_Internal"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Internal Storage"
+        android:onClick="internalpage"/>
+    <Button
+        android:id="@+id/Tbl_External"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="External Storage"
+        android:onClick="externalpage"/>
+
+</LinearLayout>

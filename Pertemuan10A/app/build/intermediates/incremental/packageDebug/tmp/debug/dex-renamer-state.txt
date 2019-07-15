@@ -1,0 +1,4 @@
+#Mon Jul 15 17:31:28 SRET 2019
+base.0=D\:\\DTS\\ActLib\\Pertemuan10A\\app\\build\\intermediates\\dex\\debug\\mergeDexDebug\\out
+renamed.0=classes.dex
+path.0=classes.dex

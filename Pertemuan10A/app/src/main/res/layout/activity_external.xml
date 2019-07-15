@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".External">
+
+    <Button
+        android:id="@+id/Tbl_Create_External"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="BUAT FILE"
+        android:onClick="buatfileex"/>
+
+    <Button
+        android:id="@+id/Tbl_Change_External"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="UBAH FILE"
+        android:onClick="gantifileex"/>
+
+    <Button
+        android:id="@+id/Tbl_Read_External"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="BACA FILE"
+        android:onClick="bacafileex"/>
+
+    <Button
+        android:id="@+id/Tbl_Delete_External"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="HAPUS FILE"
+        android:onClick="hapusfileex"/>
+    <TextView
+        android:id="@+id/Lbl_Text_External"
+        android:layout_width="match_parent"
+        android:layout_height="210dp"
+        android:padding="5dp"
+        android:ems="10"
+        android:gravity="top|left"
+        android:text="textView"/>
+</LinearLayout>
