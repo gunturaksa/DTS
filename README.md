@@ -25,5 +25,11 @@ Pertemuan 9 A
 Pertemuan 9 B
 -Projek Menampilkan List Sederhana
 
-Pertemuan 10
+Pertemuan 10 A
 -Projek Internal Storage Dan External Storage
+
+Pertemuan 10 B
+-Pembuatan Splash Screen dan Login Form
+
+Pertemuan 11
+Penggunaan SQLite
