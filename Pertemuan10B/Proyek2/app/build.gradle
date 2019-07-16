@@ -4,7 +4,7 @@ android {
     compileSdkVersion 29
     buildToolsVersion "29.0.0"
     defaultConfig {
-        applicationId "kominfo.go.id.storage.proyek1"
+        applicationId "kominfo.go.id.storage.proyek2"
         minSdkVersion 15
         targetSdkVersion 29
         versionCode 1

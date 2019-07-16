@@ -1,4 +1,4 @@
-package kominfo.go.id.storage.proyek1;
+package kominfo.go.id.storage.proyek2;
 
 import android.content.Context;
 
@@ -22,6 +22,6 @@ public class ExampleInstrumentedTest {
         // Context of the app under test.
         Context appContext = InstrumentationRegistry.getTargetContext();
 
-        assertEquals("kominfo.go.id.storage.proyek1", appContext.getPackageName());
+        assertEquals("kominfo.go.id.storage.proyek2", appContext.getPackageName());
     }
 }
