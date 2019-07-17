@@ -33,3 +33,6 @@ Pertemuan 10 B
 
 Pertemuan 11
 Penggunaan SQLite
+
+Pertemuan 12
+Penggunaan Aplikasi SQLite dengan Basic Activity
