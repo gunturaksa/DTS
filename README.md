@@ -36,3 +36,6 @@ Penggunaan SQLite
 
 Pertemuan 12
 Penggunaan Aplikasi SQLite dengan Basic Activity
+
+Pertemuan 13A
+Pembuatan Menu dalam Tengat waktu yang ditentukan
