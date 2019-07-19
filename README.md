@@ -34,8 +34,11 @@ Pertemuan 10 B
 Pertemuan 11
 Penggunaan SQLite
 
-Pertemuan 12
+Pertemuan 12A
 Penggunaan Aplikasi SQLite dengan Basic Activity
 
-Pertemuan 13A
+Pertemuan 12B
+Penggunaan Aplikasi menggunakan API
+
+Pertemuan 13
 Pembuatan Menu dalam Tengat waktu yang ditentukan
