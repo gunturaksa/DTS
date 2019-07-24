@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Pertemuan5</string>
+    <string name="Lbl1">Pertemuan 5 - Menambah Button</string>
+    <string name="Btn1">Merah</string>
+    <string name="Btn2">Hijau</string>
+    <string name="Judulmenu3">Masukkan Nama Anda</string>
+    <string name="hint1">Nama Anda</string>
+    <string name="BtnMenu3">Simpan</string>
+    <string name="Judulmenu4">Masukkan Angka Hasil Pangkat</string>
+    <string name="hint2">Angka berpangkat</string>
+</resources>

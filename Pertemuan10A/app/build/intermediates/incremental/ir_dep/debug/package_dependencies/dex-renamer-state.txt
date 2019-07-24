@@ -1,4 +1,0 @@
-#Mon Jul 15 16:38:25 SRET 2019
-base.0=D\:\\DTS\\ActLib\\Pertemuan10A\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\10
-renamed.0=classes.dex
-path.0=classes.dex
