@@ -1,50 +1,50 @@
 # DTS
 Digital Talent Scholarship 2019 POLIBAN
 
-PERTEMUAN 3\n
+# PERTEMUAN 3
 *Java Class
 
-Pertemuan 4\n
+# Pertemuan 4
 *Projek Pencil Dan diconversikan Ke HTML
 
-Pertemuan 5\n
+# Pertemuan 5
 *Projek Menu
 
-Pertemuan 6\n
+# Pertemuan 6
 *Projek Pencil Dan Projek Android Sesuai Design
 
-Pertemuan 7\n
+# Pertemuan 7
 *Projek Menampilkan Nama
 
-Pertemuan 8\n
+# Pertemuan 8
 *Projek Menampilkan Kalkulator Sederhana + Menu Ganjil Genap
 
-Pertemuan 9 A\n
+# Pertemuan 9 A
 *Projek Menampilkan NIM, Nama, dan Kampus
 
-Pertemuan 9 B\n
+# Pertemuan 9 B
 *Projek Menampilkan List Sederhana
 
-Pertemuan 10 A\n
+# Pertemuan 10 A
 *Projek Internal Storage Dan External Storage
 
-Pertemuan 10 B\n
+# Pertemuan 10 B
 *Pembuatan Splash Screen dan Login Form
 
-Pertemuan 11\n
+# Pertemuan 11
 *Penggunaan SQLite
 
-Pertemuan 12A\n
+# Pertemuan 12A
 *Penggunaan Aplikasi SQLite dengan Basic Activity
 
-Pertemuan 12B\n
+# Pertemuan 12B
 *Penggunaan Aplikasi menggunakan API
 
-Pertemuan 13\n
+# Pertemuan 13
 *Pembuatan Menu dalam Tengat waktu yang ditentukan
 
-Pertemuan 14\n
+# Pertemuan 14
 *Pembenaran Koding yang salah
 
-Pertemuan 15\n
+# Pertemuan 15
 *Pembuatan Koding Login dan Logout Dengan Waktu Yang Ditentukan
